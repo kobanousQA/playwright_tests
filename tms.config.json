@@ -1,0 +1,11 @@
+{
+  "url": "https://team-2sv1.testit.software",
+  "privateToken": "R3RraHlkcnRYTmpqb1VZNUI5",
+  "projectId": "01958425-2091-78e1-b5ab-c180ac192cbf",
+  "configurationId": "01958425-20bb-75f3-9625-ef0ae58516ef",
+  "testRunId": "TEST_RUN_ID",
+  "testRunName": "TEST_RUN_NAME",
+  "adapterMode": 2,
+  "automaticCreationTestCases": false,
+  "automaticUpdationLinksToTestCases": false
+}
